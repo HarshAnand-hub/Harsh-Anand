@@ -47,10 +47,6 @@ Engineering student dedicated to mastering logical problem-solving and software 
 
 
 
-## 🧠 Top languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAnand-hub&layout=compact&hide_border=true&langs_count=8&theme=default&exclude_repo=HarshAnand-hub" alt="Top Languages" width="400"/>
----
 
 
 
