@@ -38,15 +38,20 @@ Engineering student dedicated to mastering logical problem-solving and software 
 
 ## 🚀 Top contributed repos
 
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=HarshAnand-hub&limit=5&theme=flat&combine_all_yearly_contributions=true)](https://github.com/HarshAnand-hub?tab=repositories)
-
-> Browse all → [github.com/HarshAnand-hub](https://github.com/HarshAnand-hub?tab=repositories)
+| Repo | Link |
+|------|------|
+| 📁 HarshAnand-hub | [github.com/HarshAnand-hub](https://github.com/HarshAnand-hub) |
+| 📁 All repositories | [View all repos →](https://github.com/HarshAnand-hub?tab=repositories) |
 
 ---
 
 ## 🧠 Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAnand-hub&layout=compact&hide_border=true&langs_count=8&theme=default)](https://github.com/HarshAnand-hub)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAnand-hub&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Langs" />
+
+---
+
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshAnand-hub&color=blue&style=flat-square&label=Profile+Views)
