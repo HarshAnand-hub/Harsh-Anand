@@ -40,6 +40,6 @@ Engineering student dedicated to mastering logical problem-solving and software 
 ![](https://github-contributor-stats.vercel.app/api?username=HarshAnand-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=HarshAnand-hub&icon=6&color=13)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=HarshAnand-hub&color=blue&style=flat-square&label=Profile+Views)
 
 
